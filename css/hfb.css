@@ -1,0 +1,45 @@
+#cardSort{
+    border: none;
+    background: none;
+    
+
+}
+#cardSort img{
+    height: 500px;
+}
+
+/* #cardSort:active img, #cardSort:focus img{
+    height: max-content;
+    width: max-content;
+} */
+
+h2{
+    font-weight: bold;
+}
+h4{
+    font-weight: bold;
+}
+
+.versions{
+    font-weight: 700;
+}
+
+.lofiIMGS{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.LoFi{
+    height: 200px;
+}
+
+.buggyIMGS{
+    height: 400px;
+}
+
+.mobIMGS{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 500px;
+
+}
